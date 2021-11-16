@@ -2,3 +2,4 @@
 - Darkhub 
 - beta
 - Made by Universe11 (fun fact: the universe11 is noob)
+- Works on JJSlopit
